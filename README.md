@@ -17,11 +17,10 @@ To write a program to predict the marks scored by a student using the simple lin
 
 ## Program:
 ```
-/*
 Program to implement the simple linear regression model for predicting the marks scored.
 Developed by: John Wilfred Thomas J W
 RegisterNumber: 24013517
-*/
+```
 ```
 import pandas as pd
 import numpy as np
@@ -75,7 +74,7 @@ print('MAE = ',mae)
 
 rmse=np.sqrt(mse)
 print('RMSE = ',rmse)
-
+```
 ## Output:
 
 ![simple linear regression model for predicting the marks scored](sam.png)
